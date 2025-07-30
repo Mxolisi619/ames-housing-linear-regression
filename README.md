@@ -13,7 +13,7 @@ workflow from EDA to model evaluation.
 - Interpret model results and error metrics
 
 
-## 📂 Files
+## Files
 
 | File | Description |
 |------|-------------|
@@ -62,7 +62,6 @@ workflow from EDA to model evaluation.
 ## About Project
 
 This project was completed as part of a data science portfolio for job applications.  
-**[GitHub](https://github.com/yourusername)**
 
 
 
